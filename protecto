@@ -20,15 +20,7 @@
       font-family: Arial, Helvetica, sans-serif;
       color: var(--texto);
       background: #fffdf8;
-      line-height: 1.6;
-    }
-    header {
-      background: rgba(255,253,248,.96);
-      position: sticky;
-      top: 0;
-      z-index: 10;
-      box-shadow: 0 2px 14px rgba(0,0,0,.07);
-    }
+      line-height: 1.6;}  header {background: rgba(255,253,248,.96);position: sticky; top: 0;z-index: 10;box-shadow: 0 2px 14px rgba(0,0,0,.07);}
     .barra {
       max-width: 1150px;
       margin: auto;
